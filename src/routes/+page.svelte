@@ -107,7 +107,7 @@
 
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					class="col-span-2 bg-white max-h-22 w-full object-contain lg:col-span-1"
 					src="https://cdn-icons-png.flaticon.com/512/7075/7075373.png"
 					alt="Transistor"
 					width="158"
@@ -123,7 +123,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					class="col-span-2 bg-white max-h-22 w-full object-contain lg:col-span-1"
 					src="https://static.thenounproject.com/png/2108552-200.png"
 					alt="Transistor"
 					width="158"
@@ -140,7 +140,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					class="col-span-2 max-h-22 w-full bg-white object-contain lg:col-span-1"
 					src="https://cdn-icons-png.flaticon.com/512/2362/2362366.png"
 					alt="Transistor"
 					width="158"
@@ -154,7 +154,7 @@
 				</div>
 
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
-					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+					<dd class="order-first bg-white text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
 					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
 					src="https://static.thenounproject.com/png/3636678-200.png"
