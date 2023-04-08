@@ -20,7 +20,7 @@
 					<div
 						class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray dark:text-white ring-1 ring-gray-900/10 hover:ring-gray-900/20"
 					>
-						Trusted by thousands of students. <a href="#" class="font-semibold text-indigo-600"
+						Trusted by thousands of students. <a href="/testimonials" class="font-semibold text-indigo-600"
 							><span class="absolute inset-0" aria-hidden="true" />Read more
 							<span aria-hidden="true">&rarr;</span></a
 						>
@@ -52,12 +52,12 @@
 					</div>
 					<div class="mt-10 flex items-center justify-center gap-x-6">
 						<a
-							href="#"
+							href="/courses"
 							class="rounded-md bg-purple-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 							>Get started</a
 						>
 						<a
-							href="#"
+							href="#getstarted"
 							class="rounded-md bg-purple-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 							>Contact Us</a
 						>
@@ -309,28 +309,7 @@
 							Get Free courses every month
 						</dd>
 					</div>
-					<div class="flex flex-col items-start">
-						<div class="rounded-md bg-white/5 p-2 ring-1 ring-white/10">
-							<svg
-								class="h-6 w-6 text-white"
-								fill="none"
-								viewBox="0 0 24 24"
-								stroke-width="1.5"
-								stroke="currentColor"
-								aria-hidden="true"
-							>
-								<path
-									stroke-linecap="round"
-									stroke-linejoin="round"
-									d="M10.05 4.575a1.575 1.575 0 10-3.15 0v3m3.15-3v-1.5a1.575 1.575 0 013.15 0v1.5m-3.15 0l.075 5.925m3.075.75V4.575m0 0a1.575 1.575 0 013.15 0V15M6.9 7.575a1.575 1.575 0 10-3.15 0v8.175a6.75 6.75 0 006.75 6.75h2.018a5.25 5.25 0 003.712-1.538l1.732-1.732a5.25 5.25 0 001.538-3.712l.003-2.024a.668.668 0 01.198-.471 1.575 1.575 0 10-2.228-2.228 3.818 3.818 0 00-1.12 2.687M6.9 7.575V12m6.27 4.318A4.49 4.49 0 0116.35 15m.002 0h-.002"
-								/>
-							</svg>
-						</div>
-						<dt class="mt-4 font-semibold text-white">No spam</dt>
-						<dd class="mt-2 leading-7 text-gray-400">
-
-						</dd>
-					</div>
+					
 				</dl>
 			</div>
 		</div>
