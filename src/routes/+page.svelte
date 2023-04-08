@@ -82,14 +82,16 @@
 			<p class="text-center font-bold  md:text-6xl text-2xl mb-10">
 				LEARN  <span class=" text-purple-600 "> MORE </span>NOW
 			</p>
-			<dl class="grid grid-cols-1 gap-x-8 gap-y-8 text-center lg:grid-cols-3">
+			<dl class="grid grid-cols-1 gap-x-8 gap-y-6 text-center lg:grid-cols-3">
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2  mx-auto   w-22 object-contain lg:col-span-1"
+					class="col-span-2   mx-auto   w-22  object-contain lg:col-span-1"
 					src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"
 					alt="Transistor"
+					width="158"
+					height="48"
 
 				/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
@@ -172,7 +174,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 w-22 object-contain lg:col-span-1"
+					class="col-span-2  mx-auto   w-22 object-contain lg:col-span-1"
 					src="https://cdn.pixabay.com/photo/2022/01/03/19/56/machine-learning-6913525_1280.png"
 					alt="Transistor"
 					width="158"
