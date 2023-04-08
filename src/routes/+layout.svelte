@@ -25,6 +25,7 @@
 
 	function setActive(index: number) {
 		active = index;
+		$navbar.hidden = true;
 	}
 
 	let breakPoint: number = 1024;
