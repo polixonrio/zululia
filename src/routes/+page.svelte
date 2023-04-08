@@ -90,8 +90,8 @@
 					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
 					src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"
 					alt="Transistor"
-					width="158"
-					height="48"
+					width="100"
+					height="38"
 				/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Web Development <br>
