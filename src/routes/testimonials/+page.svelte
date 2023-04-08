@@ -143,9 +143,10 @@
 			>
 				<blockquote class="mx-auto mb-8 max-w-2xl text-gray-500 dark:text-gray-400">
 					<p class="my-4">
-						Asterisc institute was good for me in this lockdown because i managed to have some time i decided to upgrade my skills. Pooja mam and was helpful of me in many ways. This institute provide best online training. 
-
-						They will provide proper guidance. This institute having good professional trainers who will train students easily and motivate students to learn the course. 					</p>
+						Asterisc institute was good for me in this lockdown because i managed to have some time i decided to upgrade my skills. Pooja mam and was helpful of me in many ways. This institute provide best online training. </p>
+						<p class="my-4"> 
+						They will provide proper guidance. This institute having good professional trainers who will train students easily and motivate students to learn the course. 					
+					</p>
 				</blockquote>
 				<figcaption class="flex justify-center items-center space-x-3">
 					<img
@@ -154,7 +155,8 @@
 						alt="profile picture"
 					/>
 					<div class="space-y-0.5 font-medium dark:text-white text-left">
-						<div>Shubham Hadge</div>
+						<div>Srishti Mishra
+						</div>
 						<div class="text-sm font-light text-gray-500 dark:text-gray-400">Amazon</div>
 					</div>
 				</figcaption>
