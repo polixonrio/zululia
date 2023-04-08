@@ -5,7 +5,7 @@
 
 <main class="dark:bg-gray-800 bg-gray-100  dark:text-gray-100">
 	<div class="bg-gray">
-		<div class="relative isolate px-6 py-20 md:py-2  lg:px-8">
+		<div class="relative isolate px-6 py-20 md:py-2">
 			<div
 				class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
 				aria-hidden="true"
@@ -76,7 +76,7 @@
 		</div>
 	</div>
 
-	<div class="bg-white dark:bg-black py-20 sm:py-20 ">
+	<div class="bg-white dark:bg-black py-16 sm:py-16 ">
 
 		<div class="mx-auto max-w-7xl px-6 lg:px-8">
 			<p class="text-center font-bold  md:text-6xl text-2xl mb-10">
