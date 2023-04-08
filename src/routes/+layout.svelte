@@ -70,8 +70,12 @@
 			</span>
 		</NavBrand>
 		<div class="flex md:order-2">
-			<a href="/contactus" class="mt-1 bg-purple-600" ><Button size="sm" >Contact Us</Button></a>
-			
+			<!-- <a href="/contactus" class="mt-1 bg-purple-600" ><Button size="sm" >Contact Us</Button></a> -->
+			<a
+							href="/contactus"
+							class="rounded-md bg-purple-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+							>Contact Us</a
+						>
 			<DarkMode class="ml-2" btnClass={darkmodebtn} />
 			<NavHamburger on:click={toggle} />
 		</div>
