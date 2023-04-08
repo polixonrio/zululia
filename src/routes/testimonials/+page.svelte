@@ -118,11 +118,10 @@
 			>
 				<blockquote class="mx-auto mb-8 max-w-2xl text-gray-500 dark:text-gray-400">
 					<p class="my-4">
-						It was great experience to get training from Chandrakant sir. He elaborate each and
-						every topic in very simple manner so that one can understand the concept. As I am
-						fresher in Programming Language, I was not that much confident but now i have sufficient
-						knowledge and I am definitely going to recommend this Institute to my friends. Thank you
-						Pooja Maam and Chandrakant Sir....
+						<video class="w-full" controls>
+							<source src="https://youtu.be/wevIc9MhtIk" type="video/mp4">
+							Your browser does not support the video tag.
+						  </video>
 					</p>
 
 					<p class="my-4">If you care for your time, I hands down would go with this."</p>
@@ -144,10 +143,9 @@
 			>
 				<blockquote class="mx-auto mb-8 max-w-2xl text-gray-500 dark:text-gray-400">
 					<p class="my-4">
-						Great & Pleasant learning Experience. The faculties are very supportive and motivating
-						with immense knowledge. Excellent teacher and provide a helpful knowledge for students
-						and also look up to students for there doubt...... Thank You for being with us...😘
-					</p>
+						Asterisc institute was good for me in this lockdown because i managed to have some time i decided to upgrade my skills. Pooja mam and was helpful of me in many ways. This institute provide best online training. 
+
+						They will provide proper guidance. This institute having good professional trainers who will train students easily and motivate students to learn the course. 					</p>
 				</blockquote>
 				<figcaption class="flex justify-center items-center space-x-3">
 					<img
