@@ -126,9 +126,9 @@
               <div>
                 <button
                   type="submit"
-                  class="bg-primary border-black border-2 text-black bg:black dark:text-white dark:bg-white border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
+                  class="bg-primary border-black  border-2 text-black bg:black dark:text-white dark:bg-white border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
                 >
-                  <p class="text-purple">Send Message</p>
+                  <p class="text-black">Send Message</p>
                 </button>
               </div>
             </form>
