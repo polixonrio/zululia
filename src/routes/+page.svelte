@@ -89,7 +89,7 @@
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Web Development <br>
 							
-							<button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button>
+							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
 						</p>
 						
 					</dd>
@@ -101,7 +101,7 @@
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Mobile Development <br>
-							<button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button>
+							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
 						</p>
 					</dd>
 				</div>
@@ -111,7 +111,7 @@
 					
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Software Testing <br>
-							<button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button>
+							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
 						</p>
 					</dd>
 	
@@ -121,7 +121,7 @@
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Programming Language <br>
-							<button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button>
+							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
 						</p>
 					</dd>
 				</div>
@@ -130,7 +130,7 @@
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Database Design <br>
-							<button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button>
+							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
 						</p>
 					</dd>
 		
@@ -140,7 +140,7 @@
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Machine Learning <br>
-							<button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button>
+							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
 						</p>
 					</dd>
 		
