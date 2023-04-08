@@ -2,19 +2,19 @@
 	<div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
 
 
-<section class="relative z-10 overflow-hidden bg-white py-20 lg:py-[120px]">
+<section class="bg-white dark:bg-gray-900 relative z-10 overflow-hidden bg-white py-20 lg:py-[120px]">
     <div class="container mx-auto">
       <div class="-mx-4 flex flex-wrap lg:justify-between">
         <div class="w-full px-4 lg:w-1/2 xl:w-6/12">
-          <div class="mb-12 max-w-[570px] lg:mb-0">
-            <span class="text-primary mb-4 block text-base font-semibold">
+          <div class="mb-12 mx-auto max-w-[570px] lg:mb-0">
+            <p class="text-primary text-black dark:text-white text-4xl  mb-4 block text-base font-semibold">
               Contact Us
-            </span>
-            <h2
-              class="text-dark mb-6 text-[32px] font-bold uppercase sm:text-[40px] lg:text-[36px] xl:text-[40px]"
+            </p>
+            <p
+              class="text-black dark:text-white mb-6 text-[32px] font-bold uppercase sm:text-[40px] lg:text-[36px] xl:text-[40px]"
             >
               GET IN TOUCH WITH US
-            </h2>
+          </p>
             <p class="text-body-color mb-9 text-base leading-relaxed">
 
             </p>
@@ -34,8 +34,8 @@
                 </svg>
               </div>
               <div class="w-full">
-                <h4 class="text-dark mb-1 text-xl font-bold">Our Location</h4>
-                <p class="text-body-color text-base">
+                <p class="text-dark mb-1 text-xl font-bold">Our Location</p>
+                <p class="text-body-color text-black dark:text-white text-base">
                     Janaee Plaza,2nd Floor, Bhande Plot Chowk, Raghuji Nagar, Nagpur, Maharashtra 440009
 
 
@@ -64,8 +64,8 @@
                 </svg>
               </div>
               <div class="w-full">
-                <h4 class="text-dark mb-1 text-xl font-bold">Phone Number</h4>
-                <p class="text-body-color text-base"> +91 77448 22228                </p>
+                <p class="text-black dark:text-white mb-1  text-xl font-bold">Phone Number</p>
+                <p class="text-black dark:text-white text-base"> +91 77448 22228                </p>
               </div>
             </div>
             <div class="mb-8 flex w-full max-w-[370px]">
@@ -949,3 +949,8 @@
   
 	</div>
 </section>
+<style>
+	p {
+		font-family: 'Montserrat', sans-serif;
+	}
+</style>
