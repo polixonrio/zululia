@@ -1,4 +1,7 @@
-<!-- ====== Contact Section Start -->
+<section class="bg-white dark:bg-gray-900">
+	<div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
+
+
 <section class="relative z-10 overflow-hidden bg-white py-20 lg:py-[120px]">
     <div class="container mx-auto">
       <div class="-mx-4 flex flex-wrap lg:justify-between">
@@ -944,3 +947,5 @@
   </section>
   <!-- ====== Contact Section End -->
   
+	</div>
+</section>
