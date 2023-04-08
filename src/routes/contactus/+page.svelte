@@ -34,7 +34,7 @@
                 </svg>
               </div>
               <div class="w-full">
-                <p class="text-dark mb-1 text-xl font-bold">Our Location</p>
+                <p class="text-black dark:text-white mb-1  text-xl font-bold">Our Location</p>
                 <p class="text-body-color text-black dark:text-white text-base">
                     Janaee Plaza,2nd Floor, Bhande Plot Chowk, Raghuji Nagar, Nagpur, Maharashtra 440009
 
@@ -84,8 +84,8 @@
                 </svg>
               </div>
               <div class="w-full">
-                <h4 class="text-dark mb-1 text-xl font-bold">Email Address</h4>
-                <p class="text-body-color text-base"> info@asterisc.in
+                <h4 class="text-black dark:text-white mb-1  text-xl font-bold">Email Address</h4>
+                <p class="text-black dark:text-white text-base "> info@asterisc.in
 
                 </p>
               </div>
