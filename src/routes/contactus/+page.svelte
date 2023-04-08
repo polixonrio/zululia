@@ -126,7 +126,7 @@
               <div>
                 <button
                   type="submit"
-                  class="bg-primary border-black  border-2 text-black bg:black dark:text-white dark:bg-white border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
+                  class="bg-primary border-black  border-2 text-black bg:black dark:text-black dark:bg-white border-primary w-full rounded border p-3  transition hover:bg-opacity-90"
                 >
                   <p class="text-black text-extrabold text-bold">Send Message</p>
                 </button>
