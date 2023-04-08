@@ -77,15 +77,15 @@
 		</div>
 
 		<NavUl {hidden} {divClass} {ulClass}>
-			<NavLi href="/" active={active === 0} on:click={() => setActive(0)}><p class=" text-base  md:text-xl">Home</p></NavLi>
-			<NavLi href="/aboutus" active={active === 1} on:click={() => setActive(1)}><p class="text-base md:text-xl">About Us</p></NavLi>
-			<NavLi href="/courses" active={active === 2} on:click={() => setActive(2)}><p class="text-base md:text-xl">Courses</p></NavLi>
-			<NavLi href="/faqs" active={active === 3} on:click={() => setActive(3)}><p class="text-base md:text-xl">FAQ</p></NavLi>
-			<NavLi href="/testimonials" active={active === 4} on:click={() => setActive(4)}
+			<NavLi on:click={toggle} href="/" active={active === 0} on:click={() => setActive(0)}><p class=" text-base  md:text-xl">Home</p></NavLi>
+			<NavLi on:click={toggle} href="/aboutus" active={active === 1} on:click={() => setActive(1)}><p class="text-base md:text-xl">About Us</p></NavLi>
+			<NavLi on:click={toggle} href="/courses" active={active === 2} on:click={() => setActive(2)}><p class="text-base md:text-xl">Courses</p></NavLi>
+			<NavLi on:click={toggle} href="/faqs" active={active === 3} on:click={() => setActive(3)}><p class="text-base md:text-xl">FAQ</p></NavLi>
+			<NavLi on:click={toggle} href="/testimonials" active={active === 4} on:click={() => setActive(4)}
 				><p class="text-base md:text-xl">Testimonials</p></NavLi
 			>
-			<NavLi href="https://astr-one.vercel.app/" active={active === 5} on:click={() => setActive(5)}><p class="text-base md:text-xl">Projects</p></NavLi>
-			<NavLi href="/contactus" active={active ===6} on:click={() => setActive(6)}><p class="text-base md:text-xl">Contact Us</p></NavLi>
+			<NavLi on:click={toggle} href="https://astr-one.vercel.app/" active={active === 5} on:click={() => setActive(5)}><p class="text-base md:text-xl">Projects</p></NavLi>
+			<NavLi on:click={toggle} href="/contactus" active={active ===6} on:click={() => setActive(6)}><p class="text-base md:text-xl">Contact Us</p></NavLi>
 		</NavUl>
 	</Navbar>
 </header>
