@@ -35,7 +35,7 @@
               </div>
               <div class="w-full">
                 <p class="text-black dark:text-white mb-1 text-left text-xl font-bold">Our Location</p>
-                <p class="text-body-color text-black dark:text-white text-base">
+                <p class="text-body-color text-black dark:text-white text-left text-base">
                     Janaee Plaza,2nd Floor, Bhande Plot Chowk, Raghuji Nagar, Nagpur, Maharashtra 440009
 
 
@@ -44,7 +44,7 @@
             </div>
             <div class="mb-8 flex w-full max-w-[370px]">
               <div
-                class="bg-primary  dark:bg-white text-primary mr-1 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
+                class="bg-primary  dark:bg-white text-primary mr-6  flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
               >
                 <svg
                   width="24"
@@ -70,7 +70,7 @@
             </div>
             <div class="mb-8 flex w-full max-w-[370px]">
               <div
-                class="bg-primary  dark:bg-white text-primary mr-1 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
+                class="bg-primary  dark:bg-white text-primary mr-6  flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
               >
                 <svg
                   width="28"
