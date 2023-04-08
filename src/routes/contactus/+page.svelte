@@ -34,7 +34,7 @@
                 </svg>
               </div>
               <div class="w-full">
-                <p class="text-black dark:text-white mb-1  text-xl font-bold">Our Location</p>
+                <p class="text-black dark:text-white mb-1 text-left text-xl font-bold">Our Location</p>
                 <p class="text-body-color text-black dark:text-white text-base">
                     Janaee Plaza,2nd Floor, Bhande Plot Chowk, Raghuji Nagar, Nagpur, Maharashtra 440009
 
@@ -64,8 +64,8 @@
                 </svg>
               </div>
               <div class="w-full">
-                <p class="text-black dark:text-white mx-auto  text-xl font-bold">Phone Number</p>
-                <p class="text-black dark:text-white text-base"> +91 77448 22228                </p>
+                <p class="text-black dark:text-white mx-auto text-left text-xl font-bold">Phone Number</p>
+                <p class="text-black dark:text-white text-left text-base"> +91 77448 22228                </p>
               </div>
             </div>
             <div class="mb-8 flex w-full max-w-[370px]">
@@ -84,8 +84,8 @@
                 </svg>
               </div>
               <div class="w-full">
-                <h4 class="text-black dark:text-white mb-1 mx-auto  text-xl font-bold">Email Address</h4>
-                <p class="text-black dark:text-white mx-auto text-base "> info@asterisc.in
+                <p class="text-black dark:text-white text-left mb-1 mx-auto  text-xl font-bold">Email Address</p>
+                <p class="text-black dark:text-white text-left mx-auto text-base "> info@asterisc.in
 
                 </p>
               </div>
@@ -126,7 +126,7 @@
               <div>
                 <button
                   type="submit"
-                  class="bg-primary border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
+                  class="bg-primary text-black bg:black dark:text-white dark:bg-white border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
                 >
                   Send Message
                 </button>
