@@ -118,10 +118,7 @@
 			>
 				<blockquote class="mx-auto mb-8 max-w-2xl text-gray-500 dark:text-gray-400">
 					<p class="my-4">
-						<video class="w-full" controls>
 							<iframe width="853" height="480" src="https://www.youtube.com/embed/wevIc9MhtIk" title="Student Experience with AsteriscJR! [Coding Classes for Kids]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-							Your browser does not support the video tag.
-						  </video>
 					</p>
 
 					<p class="my-4">If you care for your time, I hands down would go with this."</p>
