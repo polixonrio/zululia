@@ -87,12 +87,14 @@
 				<div class="p-5">
 					<a href="#">
 						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-							Noteworthy technology acquisitions 2021
+							Real-World Ethical Hacking: Hands-on Cybersecurity
 						</h5>
 					</a>
 					<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-						Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse
-						chronological order.
+						Ethical hacking involves an authorized attempt to gain unauthorized access to a computer
+						system, application, or data. Carrying out an ethical hack involves duplicating
+						strategies and actions of malicious attackers.Also known as “white hats,” ethical
+						hackers are security experts that perform these assessments.
 					</p>
 					<a
 						href="#"
@@ -124,12 +126,14 @@
 				<div class="p-5">
 					<a href="#">
 						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-							Noteworthy technology acquisitions 2021
+							Tally ERP9 With GST Step By Step Guide From Basic to Professional
 						</h5>
 					</a>
 					<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-						Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse
-						chronological order.
+						Tally. ERP 9 is a windows-based Enterprise Resource Planning software. The software
+						handles Accounting, Inventory Management, Order Management, Tax Management, Payroll,
+						Banking and many such requirements of the business. It supports all day-to-day processes
+						from recording invoices to generating various MIS reports.
 					</p>
 					<a
 						href="#"
@@ -161,12 +165,13 @@
 				<div class="p-5">
 					<a href="#">
 						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-							Noteworthy technology acquisitions 2021
+							The Complete AutoCAD course from Zero to Advanced
 						</h5>
 					</a>
 					<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-						Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse
-						chronological order.
+						AutoCAD is a commercial computer-aided design (CAD) and drafting software
+						application.AutoCAD is used in industry, by architects, project managers, engineers,
+						graphic designers, city planners and other professionals
 					</p>
 					<a
 						href="#"
@@ -198,12 +203,14 @@
 				<div class="p-5">
 					<a href="#">
 						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-							Noteworthy technology acquisitions 2021
+							Graphic Design Mastery: The Full Branding & Design Process
 						</h5>
 					</a>
 					<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-						Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse
-						chronological order.
+						Graphic design is a craft where professionals create visual content to communicate
+						messages. By applying visual hierarchy and page layout techniques, designers use
+						typography and pictures to meet users’ specific needs and focus on the logic of
+						displaying elements in interactive designs, to optimize the user experience.
 					</p>
 					<a
 						href="#"
@@ -235,12 +242,14 @@
 				<div class="p-5">
 					<a href="#">
 						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-							Noteworthy technology acquisitions 2021
+							Learn C++ for Game Development
 						</h5>
 					</a>
 					<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-						Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse
-						chronological order.
+						C++ is a powerful general-purpose programming language. It can be used to develop
+						operating systems, games, browsers, and so on. C++ supports different ways of
+						programming like object-oriented, functional, procedural, and so on. This makes C++
+						powerful as well as flexible.
 					</p>
 					<a
 						href="#"
@@ -272,12 +281,13 @@
 				<div class="p-5">
 					<a href="#">
 						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-							Noteworthy technology acquisitions 2021
+							Build a Social Network from Scratch : MongoDB ,PHP + MySQL
 						</h5>
 					</a>
 					<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-						Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse
-						chronological order.
+						PHP is a recursive acronym for “PHP: Hypertext Preprocessor”. PHP is a server side
+						scripting language that is embedded in HTML. It is used to manage dynamic content,
+						databases, session tracking, even build entire e-commerce sites.
 					</p>
 					<a
 						href="#"
@@ -309,12 +319,14 @@
 				<div class="p-5">
 					<a href="#">
 						<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-							Noteworthy technology acquisitions 2021
+							Python and Django Full stack Web Developer Bootcamp
 						</h5>
 					</a>
 					<p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-						Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse
-						chronological order.
+						Python is a popular general-purpose programming language that can be used for a wide
+						variety of applications. It includes high-level data structures, dynamic typing, dynamic
+						binding, and many more features that make it as useful for complex application
+						development as it is for scripting or “glue code” that connects components together.
 					</p>
 					<a
 						href="#"
@@ -336,8 +348,6 @@
 					</a>
 				</div>
 			</div>
-
-	
 		</dl>
 	</div>
 </div>
