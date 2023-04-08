@@ -51,7 +51,9 @@ const config = {
 
   
 	plugins: [
+    require('@tailwindcss/aspect-ratio'),
 	  require('flowbite/plugin')
+    
 	],
 	darkMode: 'class',
   };
