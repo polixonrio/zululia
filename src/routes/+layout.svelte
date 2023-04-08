@@ -28,7 +28,7 @@
 		hidden = true;
 	}
 
-	let breakPoint: number = 1200;
+	let breakPoint: number = 1500;
 	let width: number;
 	let activateClickOutside = true;
 	let drawerHidden: boolean = false;
