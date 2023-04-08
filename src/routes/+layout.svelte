@@ -69,7 +69,7 @@
 			</span>
 		</NavBrand>
 		<div class="flex md:order-2">
-			<!-- <a href="#getstarted" class="mt-1" ><Button size="sm" >Get started</Button></a> -->
+			<a href="/contactus" class="mt-1" ><Button size="sm" >Contact Us</Button></a>
 			
 			<DarkMode class="ml-2" btnClass={darkmodebtn} />
 			<NavHamburger on:click={toggle} />
