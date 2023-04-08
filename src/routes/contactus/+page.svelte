@@ -44,7 +44,7 @@
             </div>
             <div class="mb-8 flex w-full max-w-[370px]">
               <div
-                class="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
+                class="bg-primary text-primary mr-1 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
               >
                 <svg
                   width="24"
@@ -64,13 +64,13 @@
                 </svg>
               </div>
               <div class="w-full">
-                <p class="text-black dark:text-white mb-1  text-xl font-bold">Phone Number</p>
+                <p class="text-black dark:text-white mx-auto  text-xl font-bold">Phone Number</p>
                 <p class="text-black dark:text-white text-base"> +91 77448 22228                </p>
               </div>
             </div>
             <div class="mb-8 flex w-full max-w-[370px]">
               <div
-                class="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
+                class="bg-primary text-primary mr-1 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
               >
                 <svg
                   width="28"
@@ -84,8 +84,8 @@
                 </svg>
               </div>
               <div class="w-full">
-                <h4 class="text-black dark:text-white mb-1  text-xl font-bold">Email Address</h4>
-                <p class="text-black dark:text-white text-base "> info@asterisc.in
+                <h4 class="text-black dark:text-white mb-1 mx-auto  text-xl font-bold">Email Address</h4>
+                <p class="text-black dark:text-white mx-auto text-base "> info@asterisc.in
 
                 </p>
               </div>
