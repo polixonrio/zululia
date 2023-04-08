@@ -86,6 +86,13 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+						<img
+					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"
+					alt="Transistor"
+					width="158"
+					height="48"
+				/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Web Development <br>
 							
@@ -99,6 +106,13 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+						<img
+					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					src="https://cdn-icons-png.flaticon.com/512/7075/7075373.png"
+					alt="Transistor"
+					width="158"
+					height="48"
+				/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Mobile Development <br>
 							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
@@ -108,7 +122,13 @@
 
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
-					
+						<img
+					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					src="https://static.thenounproject.com/png/2108552-200.png"
+					alt="Transistor"
+					width="158"
+					height="48"
+				/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Software Testing <br>
 							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
@@ -119,6 +139,13 @@
 				
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+						<img
+					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					src="https://cdn-icons-png.flaticon.com/512/2362/2362366.png"
+					alt="Transistor"
+					width="158"
+					height="48"
+				/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Programming Language <br>
 							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
@@ -128,6 +155,13 @@
 
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+						<img
+					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					src="https://static.thenounproject.com/png/3636678-200.png"
+					alt="Transistor"
+					width="158"
+					height="48"
+				/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Database Design <br>
 							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
@@ -138,6 +172,13 @@
 
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+						<img
+					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
+					src="https://cdn.pixabay.com/photo/2022/01/03/19/56/machine-learning-6913525_1280.png"
+					alt="Transistor"
+					width="158"
+					height="48"
+				/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
 							Machine Learning <br>
 							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
