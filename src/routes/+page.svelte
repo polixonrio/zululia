@@ -157,7 +157,7 @@
 					<dd class="order-first bg-white text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
 					class="col-span-2 max-h-22 w-full object-contain lg:col-span-1"
-					src="https://static.thenounproject.com/png/3636678-200.png"
+					src="https://www.svgrepo.com/show/155322/database.svg"
 					alt="Transistor"
 					width="158"
 					height="48"
