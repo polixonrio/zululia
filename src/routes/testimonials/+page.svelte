@@ -117,9 +117,7 @@
 				class="flex flex-col justify-center items-center p-8 text-center bg-gray-50 border-b border-gray-200 md:p-12 lg:border-r dark:bg-gray-800 dark:border-gray-700"
 			>
 				<blockquote class="mx-auto mb-8 max-w-2xl text-gray-500 dark:text-gray-400">
-					<p class="my-4">
-							<iframe width="853" height="480" src="https://www.youtube.com/embed/wevIc9MhtIk" title="Student Experience with AsteriscJR! [Coding Classes for Kids]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-					</p>
+					<iframe width="853" height="480" src="https://www.youtube.com/embed/wevIc9MhtIk" title="Student Experience with AsteriscJR! [Coding Classes for Kids]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 					<p class="my-4">If you care for your time, I hands down would go with this."</p>
 				</blockquote>
