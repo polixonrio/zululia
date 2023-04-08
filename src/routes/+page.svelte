@@ -41,7 +41,7 @@
 							type="email"
 							autocomplete="email"
 							required
-							class="min-w-0  flex-auto rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6"
+							class="min-w-0 border-black flex-auto rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6"
 							placeholder="Search For Courses"
 						/>
 						<button
@@ -57,7 +57,7 @@
 							>Get started</a
 						>
 						<a
-							href="#getstarted"
+							href="/contactus"
 							class="rounded-md bg-purple-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 							>Contact Us</a
 						>
@@ -106,7 +106,7 @@
 
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 bg-white  w-full object-contain lg:col-span-1"
+					class="col-span-2  mx-auto   w-22 object-contain lg:col-span-1"
 					src="https://cdn-icons-png.flaticon.com/512/7075/7075373.png"
 					alt="Transistor"
 					width="158"
@@ -122,7 +122,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 bg-white  w-full object-contain lg:col-span-1"
+					class="col-span-2 bg-white mx-auto   w-22  object-contain lg:col-span-1"
 					src="https://static.thenounproject.com/png/2108552-200.png"
 					alt="Transistor"
 					width="158"
@@ -139,7 +139,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2  bg-white object-contain lg:col-span-1"
+					class="col-span-2  bg-white mx-auto   w-22  object-contain lg:col-span-1"
 					src="https://cdn-icons-png.flaticon.com/512/2362/2362366.png"
 					alt="Transistor"
 					width="158"
@@ -155,7 +155,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 w-22 object-contain lg:col-span-1"
+					class="col-span-2 bg-white mx-auto   w-22  object-contain lg:col-span-1"
 					src="https://www.svgrepo.com/show/155322/database.svg"
 					alt="Transistor"
 					width="158"
