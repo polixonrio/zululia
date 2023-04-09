@@ -108,8 +108,8 @@
 
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2  bg-white mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="https://cdn-icons-png.flaticon.com/512/7075/7075373.png"
+					class="col-span-2   mx-auto rounded  w-22  object-contain lg:col-span-1"
+					src="https://cdn-icons-png.flaticon.com/512/6470/6470993.png"
 					alt="Transistor"
 					width="158"
 					height="48"

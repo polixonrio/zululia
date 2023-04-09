@@ -25,7 +25,6 @@
 
 	function setActive(index: number) {
 		active = index;
-		hidden = true;
 	}
 
 	let breakPoint: number = 1500;
