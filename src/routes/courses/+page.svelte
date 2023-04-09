@@ -1,6 +1,6 @@
 <div class="bg-white dark:bg-black py-24 sm:py-32">
-	<div class="mx-auto max-w-7xl px-6 lg:px-8">
-		<dl class="grid grid-cols-1 gap-x-8 gap-y-16 text-center lg:grid-cols-3">
+	<div class="mx-auto max-w-7xl px-6 md:px-8">
+		<dl class="grid grid-cols-1 gap-x-8 gap-y-16 text-center md:grid-cols-3">
 			<div
 				class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
 			>
