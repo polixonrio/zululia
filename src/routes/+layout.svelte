@@ -98,8 +98,8 @@
 	<slot />
 </main>
 
-<Footer footerType="socialmedia">
-	<div class="mx-auto bg-slate-100	 max-w-screen-xl text-center">
+<Footer customClass="bg-slate-100" footerType="socialmedia">
+	<div class="mx-auto 	 max-w-screen-xl text-center">
 		<FooterBrand
 			href="https://asterisc.in"
 			src="/images/logos.webp"
