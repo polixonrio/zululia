@@ -124,7 +124,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 bg-white mx-auto rounded  w-22  object-contain lg:col-span-1"
+					class="col-span-2  mx-auto rounded  w-22  object-contain lg:col-span-1"
 					src="images/testing.webp"
 					alt="Transistor"
 					width="158"
@@ -141,7 +141,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2  bg-white mx-auto rounded  w-22  object-contain lg:col-span-1"
+					class="col-span-2   mx-auto rounded  w-22  object-contain lg:col-span-1"
 					src="images/coding.webp"
 					alt="Transistor"
 					width="158"
@@ -157,7 +157,7 @@
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
-					class="col-span-2 bg-white mx-auto rounded  w-22  object-contain lg:col-span-1"
+					class="col-span-2  mx-auto rounded  w-22  object-contain lg:col-span-1"
 					src="images/database.webp"
 					alt="Transistor"
 					width="158"
