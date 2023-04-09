@@ -109,7 +109,7 @@
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
 					class="col-span-2   mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="https://cdn-icons-png.flaticon.com/512/6470/6470993.png"
+					src="images/mobdev.webp"
 					alt="Transistor"
 					width="158"
 					height="48"
@@ -125,7 +125,7 @@
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
 					class="col-span-2 bg-white mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="https://static.thenounproject.com/png/2108552-200.png"
+					src="images/testing.webp"
 					alt="Transistor"
 					width="158"
 					height="48"
@@ -142,7 +142,7 @@
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
 					class="col-span-2  bg-white mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="https://cdn-icons-png.flaticon.com/512/2362/2362366.png"
+					src="images/coding.webp"
 					alt="Transistor"
 					width="158"
 					height="48"
@@ -158,7 +158,7 @@
 					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
 						<img
 					class="col-span-2 bg-white mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="https://www.svgrepo.com/show/155322/database.svg"
+					src="images/database.webp"
 					alt="Transistor"
 					width="158"
 					height="48"
