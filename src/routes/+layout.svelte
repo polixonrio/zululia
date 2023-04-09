@@ -27,6 +27,8 @@
 		active = index;
 	}
 
+	
+
 	let breakPoint: number = 1500;
 	let width: number;
 	let activateClickOutside = true;
@@ -61,7 +63,7 @@
 		<NavBrand href="/" class="">
 			<img
 				src="/images/logos.webp"
-				class="h-auto w-9 md:w-9 lg:w-9"
+				class="h-auto flex w-9 md:w-9 lg:w-9"
 				alt="mission"
 			/>
 			<span class="self-center whitespace-nowrap text-2xl  dark:text-white ">
