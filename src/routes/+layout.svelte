@@ -59,14 +59,14 @@
 <svelte:window bind:innerWidth={width} />
 
 <header class="sticky shadow-xl dark:shadow-indigo-500/50 top-0 z-50 ">
-	<Navbar let:hidden let:toggle class="">
+	<Navbar let:hidden let:toggle fluid class="">
 		<NavBrand href="/" class="">
 			<img
 				src="/images/logos.webp"
 				class="h-auto flex w-9 md:w-9 lg:w-9"
 				alt="mission"
 			/>
-			<span class="self-center whitespace-nowrap text-2xl  dark:text-white ">
+			<span class="self-center whitespace-nowrap flex text-2xl  dark:text-white ">
 				<p class="text-2xl">Asterisc.in</p>
 			</span>
 		</NavBrand>
