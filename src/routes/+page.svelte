@@ -503,6 +503,6 @@
 
 <style>
 	p {
-		font-family: 'Montserrat', sans-serif;
+		font-family: 'Quicksand', sans-serif;
 	}
 </style>
