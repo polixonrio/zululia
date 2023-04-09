@@ -20,7 +20,9 @@
 					<div
 						class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray dark:text-white ring-1 ring-gray-900/10 hover:ring-gray-900/20"
 					>
-						Trusted by thousands of students. <a href="/testimonials" class="font-semibold text-indigo-600"
+						Trusted by thousands of students. <a
+							href="/testimonials"
+							class="font-semibold text-indigo-600"
 							><span class="absolute inset-0" aria-hidden="true" />Read more
 							<span aria-hidden="true">&rarr;</span></a
 						>
@@ -28,7 +30,7 @@
 				</div>
 				<div class="text-center">
 					<p class="text-center font-bold md:text-left md:text-6xl text-2xl">
-						PROGRAMMING IS <span class=" text-purple-600 "> MORE </span> DIFFICULT NOW, JOIN NOW 
+						PROGRAMMING IS <span class=" text-purple-600 "> MORE </span> DIFFICULT NOW, JOIN NOW
 					</p>
 					<p class="text-center mt-6 font-extrabold  leading-8 text-black dark:text-white">
 						Join Asterisc Today and Solidify your IT career
@@ -77,122 +79,146 @@
 	</div>
 
 	<div class="bg-white dark:bg-black py-16 sm:py-16 ">
-
 		<div class="mx-auto max-w-7xl px-6 lg:px-8">
 			<p class="text-center font-bold  md:text-6xl text-2xl mb-10">
-				LEARN  <span class=" text-purple-600 "> MORE </span>NOW
+				LEARN <span class=" text-purple-600 "> MORE </span>NOW
 			</p>
 			<dl class="grid grid-cols-1 gap-x-8 gap-y-6 text-center lg:grid-cols-3">
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
-					
-					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+					<dd
+						class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl"
+					>
 						<img
-					class="col-span-2 rounded  mx-auto   w-22  object-contain lg:col-span-1"
-					src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"
-					alt="Transistor"
-					width="158"
-					height="48"
-
-				/>
+							class="col-span-2 rounded  mx-auto   w-22  object-contain lg:col-span-1"
+							src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"
+							alt="Transistor"
+							width="158"
+							height="48"
+						/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
-							Web Development <br>
-							
-							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
-						</p>
-						
-					</dd>
-					
-				</div>
+							Web Development <br />
 
-				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
-
-					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
-						<img
-					class="col-span-2   mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="images/mobdev.webp"
-					alt="Transistor"
-					width="158"
-					height="48"
-				/>
-						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
-							Mobile Development <br>
-							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
+							<a href="/courses"
+								><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4"
+									>Learn Now</button
+								></a
+							>
 						</p>
 					</dd>
 				</div>
 
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
-					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+					<dd
+						class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl"
+					>
 						<img
-					class="col-span-2  mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="images/testing.webp"
-					alt="Transistor"
-					width="158"
-					height="48"
-				/>
+							class="col-span-2   mx-auto rounded  w-22  object-contain lg:col-span-1"
+							src="images/mobdev.webp"
+							alt="Transistor"
+							width="158"
+							height="48"
+						/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
-							Software Testing <br>
-							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
-						</p>
-					</dd>
-	
-				</div>
-				
-				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
-					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
-						<img
-					class="col-span-2   mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="images/coding.webp"
-					alt="Transistor"
-					width="158"
-					height="48"
-				/>
-						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
-							Programming Language <br>
-							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
+							Mobile Development <br />
+							<a href="/courses"
+								><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4"
+									>Learn Now</button
+								></a
+							>
 						</p>
 					</dd>
 				</div>
 
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
-					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+					<dd
+						class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl"
+					>
 						<img
-					class="col-span-2  mx-auto rounded  w-22  object-contain lg:col-span-1"
-					src="images/database.webp"
-					alt="Transistor"
-					width="158"
-					height="48"
-				/>
+							class="col-span-2  mx-auto rounded  w-22  object-contain lg:col-span-1"
+							src="images/testing.webp"
+							alt="Transistor"
+							width="158"
+							height="48"
+						/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
-							Database Design <br>
-							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
+							Software Testing <br />
+							<a href="/courses"
+								><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4"
+									>Learn Now</button
+								></a
+							>
 						</p>
 					</dd>
-		
 				</div>
 
 				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
-					<dd class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl">
+					<dd
+						class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl"
+					>
 						<img
-					class="col-span-2  mx-auto  rounded w-22 object-contain lg:col-span-1"
-					src="https://cdn.pixabay.com/photo/2022/01/03/19/56/machine-learning-6913525_1280.png"
-					alt="Transistor"
-					width="158"
-					height="48"
-				/>
+							class="col-span-2   mx-auto rounded  w-22  object-contain lg:col-span-1"
+							src="images/coding.webp"
+							alt="Transistor"
+							width="158"
+							height="48"
+						/>
 						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
-							Machine Learning <br>
-							<a href="/courses"><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4">Learn Now</button></a>
+							Programming Language <br />
+							<a href="/courses"
+								><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4"
+									>Learn Now</button
+								></a
+							>
 						</p>
 					</dd>
-		
 				</div>
 
+				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
+					<dd
+						class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl"
+					>
+						<img
+							class="col-span-2  mx-auto rounded  w-22  object-contain lg:col-span-1"
+							src="images/database.webp"
+							alt="Transistor"
+							width="158"
+							height="48"
+						/>
+						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
+							Database Design <br />
+							<a href="/courses"
+								><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4"
+									>Learn Now</button
+								></a
+							>
+						</p>
+					</dd>
+				</div>
+
+				<div class="mx-auto flex max-w-xs flex-col gap-y-4">
+					<dd
+						class="order-first text-3xl font-semibold tracking-tight dark:text-white text-gray-900 sm:text-5xl"
+					>
+						<img
+							class="col-span-2  mx-auto  rounded w-22 object-contain lg:col-span-1"
+							src="https://cdn.pixabay.com/photo/2022/01/03/19/56/machine-learning-6913525_1280.png"
+							alt="Transistor"
+							width="158"
+							height="48"
+						/>
+						<p class="text-center font-bold  md:text-5xl text-xl mb-10">
+							Machine Learning <br />
+							<a href="/courses"
+								><button class="border rounded px-3 hover:bg-purple-600 text-lg my-4"
+									>Learn Now</button
+								></a
+							>
+						</p>
+					</dd>
+				</div>
 			</dl>
 		</div>
 	</div>
-
-
 
 	<div class="bg-white  py-24 sm:py-32">
 		<div class="mx-auto max-w-7xl px-6 lg:px-8">
@@ -240,65 +266,77 @@
 		</div>
 	</div>
 
-
-
-
-
-
-
 	<div class="bg-white dark:bg-black py-24 sm:py-32">
 		<div class="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-cols-3">
-		  <div class="max-w-2xl">
-			<h2 class="text-3xl font-bold tracking-tight dark:text-white text-gray-900 sm:text-4xl">Meet our leadership</h2>
-			<p class="mt-6 text-lg leading-8 dark:text-white text-gray-900">We have an excellent team of Instructors to guide you.</p>
-		  </div>
-		  <ul role="list" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">
-			<li>
-			  <div class="flex items-center gap-x-6">
-				<img class="h-16 w-16 rounded-full" src="/images/csir.webp" alt="">
-				<div class="">
-				  <h3 class="text-base font-semibold  leading-7 tracking-tight dark:text-white text-gray-900">Chandrakant Sir</h3>
-				  <p class="text-sm font-semibold leading-6 text-indigo-600">Founder / CEO</p>
-				</div>
-			  </div>
-			</li>
+			<div class="max-w-2xl">
+				<h2 class="text-3xl font-bold tracking-tight dark:text-white text-gray-900 sm:text-4xl">
+					Meet our leadership
+				</h2>
+				<p class="mt-6 text-lg leading-8 dark:text-white text-gray-900">
+					We have an excellent team of Instructors to guide you.
+				</p>
+			</div>
+			<ul role="list" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">
+				<li>
+					<div class="flex items-center gap-x-6">
+						<img class="h-16 w-16 rounded-full" src="/images/csir.webp" alt="" />
+						<div class="">
+							<h3
+								class="text-base font-semibold  leading-7 tracking-tight dark:text-white text-gray-900"
+							>
+								Chandrakant Sir
+							</h3>
+							<p class="text-sm font-semibold leading-6 text-indigo-600">Founder / CEO</p>
+						</div>
+					</div>
+				</li>
 
-			<li>
-				<div class="flex items-center gap-x-6">
-				  <img class="h-16 w-16 rounded-full" src="/images/hsir.webp"  alt="">
-				  <div>
-					<h3 class="text-base font-semibold leading-7 tracking-tight dark:text-white text-gray-900">Haris Sir</h3>
-					<p class="text-sm font-semibold leading-6 text-indigo-600">Instructor</p>
-				  </div>
-				</div>
-			  </li>
+				<li>
+					<div class="flex items-center gap-x-6">
+						<img class="h-16 w-16 rounded-full" src="/images/hsir.webp" alt="" />
+						<div>
+							<h3
+								class="text-base font-semibold leading-7 tracking-tight dark:text-white text-gray-900"
+							>
+								Haris Sir
+							</h3>
+							<p class="text-sm font-semibold leading-6 text-indigo-600">Instructor</p>
+						</div>
+					</div>
+				</li>
 
-			  <li>
-				<div class="flex items-center gap-x-6">
-				  <img class="h-16 w-16 rounded-full" src="/images/pmaam.webp"  alt="">
-				  <div>
-					<h3 class="text-base font-semibold leading-7 tracking-tight dark:text-white text-gray-900">Pooja Maam</h3>
-					<p class="text-sm font-semibold leading-6 text-indigo-600">Instructor</p>
-				  </div>
-				</div>
-			  </li>
+				<li>
+					<div class="flex items-center gap-x-6">
+						<img class="h-16 w-16 rounded-full" src="/images/pmaam.webp" alt="" />
+						<div>
+							<h3
+								class="text-base font-semibold leading-7 tracking-tight dark:text-white text-gray-900"
+							>
+								Pooja Maam
+							</h3>
+							<p class="text-sm font-semibold leading-6 text-indigo-600">Instructor</p>
+						</div>
+					</div>
+				</li>
 
-			  <li>
-				<div class="flex items-center gap-x-6">
-				  <img class="h-16 w-16 rounded-full" src="/images/ssir.webp"  alt="">
-				  <div>
-					<h3 class="text-base font-semibold leading-7 tracking-tight dark:text-white text-gray-900">Shrikant Sir</h3>
-					<p class="text-sm font-semibold leading-6 text-indigo-600">Instructor</p>
-				  </div>
-				</div>
-			  </li>
+				<li>
+					<div class="flex items-center gap-x-6">
+						<img class="h-16 w-16 rounded-full" src="/images/ssir.webp" alt="" />
+						<div>
+							<h3
+								class="text-base font-semibold leading-7 tracking-tight dark:text-white text-gray-900"
+							>
+								Shrikant Sir
+							</h3>
+							<p class="text-sm font-semibold leading-6 text-indigo-600">Instructor</p>
+						</div>
+					</div>
+				</li>
 
-			<!-- More people... -->
-		  </ul>
+				<!-- More people... -->
+			</ul>
 		</div>
-	  </div>
-
-
+	</div>
 
 	<div class="relative isolate overflow-hidden bg-gray-900 py-16 sm:py-24 lg:py-32">
 		<div class="mx-auto max-w-7xl px-6 lg:px-8">
@@ -348,11 +386,8 @@
 							</svg>
 						</div>
 						<dt class="mt-4 font-semibold text-white">Weekly articles</dt>
-						<dd class="mt-2 leading-7 text-gray-400">
-							Get Free courses every month
-						</dd>
+						<dd class="mt-2 leading-7 text-gray-400">Get Free courses every month</dd>
 					</div>
-					
 				</dl>
 			</div>
 		</div>
@@ -429,7 +464,6 @@
 		</div>
 	</section> -->
 
-	
 	<section id="getstarted" class="  bg-purple-500 dark:bg-blue-400 ">
 		<div class="container flex flex-col items-center justify-center p-4 mx-auto md:p-8">
 			<Hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700" />
