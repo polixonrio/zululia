@@ -66,7 +66,7 @@
 				class="h-auto flex w-9 md:w-9 lg:w-9"
 				alt="mission"
 			/>
-			<span class="self-center whitespace-nowrap flex text-2xl  dark:text-white ">
+			<span class="self-center whitespace-nowrap flex text-base md:text-2xl   dark:text-white ">
 				<p class="text-2xl">Asterisc.in</p>
 			</span>
 		</NavBrand>
