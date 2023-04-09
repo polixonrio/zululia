@@ -90,40 +90,7 @@
 		</NavUl>
 	  </Navbar>
 
-	<Navbar let:hidden let:toggle fluid class="">
-		<NavBrand href="/" class="">
-			<img
-				src="/images/logos.webp"
-				class="h-auto flex w-9 md:w-9 lg:w-9"
-				alt="mission"
-			/>
-			<span class="self-center whitespace-nowrap flex text-base md:text-2xl   dark:text-white ">
-				<p class="text-2xl">Asterisc.in</p>
-			</span>
-		</NavBrand>
-		<div class="flex md:order-2">
-			<!-- <a href="/contactus" class="mt-1 bg-purple-600" ><Button size="sm" >Contact Us</Button></a> -->
-			<a
-							href="/contactus"
-							class="rounded-md bg-purple-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-							>Contact Us</a
-						>
-			<DarkMode class="ml-2" btnClass={darkmodebtn} />
-			<NavHamburger on:click={toggle} />
-		</div>
-
-		<NavUl {hidden} {divClass} {ulClass}>
-			<NavLi on:click={toggle} href="/" active={active === 0} on:click={() => setActive(0)}><p class=" text-base  md:text-xl">Home</p></NavLi>
-			<NavLi on:click={toggle} href="/aboutus" active={active === 1} on:click={() => setActive(1)}><p class="text-base md:text-xl">About Us</p></NavLi>
-			<NavLi on:click={toggle} href="/courses" active={active === 2} on:click={() => setActive(2)}><p class="text-base md:text-xl">Courses</p></NavLi>
-			<NavLi on:click={toggle} href="/faqs" active={active === 3} on:click={() => setActive(3)}><p class="text-base md:text-xl">FAQ</p></NavLi>
-			<NavLi on:click={toggle} href="/testimonials" active={active === 4} on:click={() => setActive(4)}
-				><p class="text-base md:text-xl">Testimonials</p></NavLi
-			>
-			<NavLi on:click={toggle} href="https://astr-one.vercel.app/" active={active === 5} on:click={() => setActive(5)}><p class="text-base md:text-xl">Projects</p></NavLi>
-			<NavLi on:click={toggle} href="/contactus" active={active ===6} on:click={() => setActive(6)}><p class="text-base md:text-xl">Contact Us</p></NavLi>
-		</NavUl>
-	</Navbar>
+	
 </header>
 
 <main>
