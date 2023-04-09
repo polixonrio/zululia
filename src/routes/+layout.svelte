@@ -134,9 +134,7 @@
 
 
 <style>
-	
-
 	p {
-		font-family: "Poppins", sans-serif;
+		font-family: 'Quicksand', sans-serif;
 	}
 </style>
