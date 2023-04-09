@@ -60,45 +60,37 @@
 
 <header class="sticky shadow-xl dark:shadow-indigo-500/50 top-0 z-50 ">
 
-	<Navbar let:hidden let:toggle>
-		<NavBrand href="/">
-		  <img
-			src="https://flowbite.com/docs/images/logo.svg"
-			class="mr-3 h-6 sm:h-9"
-			alt="Flowbite Logo"
-		  />
-		  <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-			Flowbite
-		  </span>
-		</NavBrand>
+	<nav class="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
+		<div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+		<a href="https://flowbite.com/" class="flex items-center">
+			<img src="https://flowbite.com/docs/images/logo.svg" class="h-8 mr-3" alt="Flowbite Logo">
+			<span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span>
+		</a>
 		<div class="flex md:order-2">
-		  <Button color="none" data-collapse-toggle="mobile-menu-3" aria-controls="mobile-menu-3" aria-expanded="false" class="md:hidden text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 mr-1" >
-			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 dark:text-white"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" /></svg>
-		  </Button>
-		  <div class="hidden relative md:block">
-			<div class="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
-			  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 dark:text-white"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" /></svg>
-			</div>
-			<Input id="search-navbar" class="pl-10" placeholder="Search..." />
-		  </div>
-		  <NavHamburger on:click={toggle} />
+			<button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 text-center mr-3 md:mr-0 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Get started</button>
+			<button data-collapse-toggle="navbar-sticky" type="button" class="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-sticky" aria-expanded="false">
+			  <span class="sr-only">Open main menu</span>
+			  <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
+			</button>
 		</div>
-		<NavUl {hidden}>
-		  <NavLi href="/" active={true}>Home</NavLi>
-		  <NavLi href="/about">About</NavLi>
-		  <NavLi href="/services">Services</NavLi>
-		  <NavLi on:click={toggle} href="/" active={active === 0} on:click={() => setActive(0)}><p class=" text-base  md:text-xl">Home</p></NavLi>
-		  <NavLi on:click={toggle} href="/aboutus" active={active === 1} on:click={() => setActive(1)}><p class="text-base md:text-xl">About Us</p></NavLi>
-		  <NavLi on:click={toggle} href="/courses" active={active === 2} on:click={() => setActive(2)}><p class="text-base md:text-xl">Courses</p></NavLi>
-		  <NavLi on:click={toggle} href="/faqs" active={active === 3} on:click={() => setActive(3)}><p class="text-base md:text-xl">FAQ</p></NavLi>
-		  <NavLi on:click={toggle} href="/testimonials" active={active === 4} on:click={() => setActive(4)}
-			  ><p class="text-base md:text-xl">Testimonials</p></NavLi
-		  >
-		  <NavLi on:click={toggle} href="https://astr-one.vercel.app/" active={active === 5} on:click={() => setActive(5)}><p class="text-base md:text-xl">Projects</p></NavLi>
-		  <NavLi on:click={toggle} href="/contactus" active={active ===6} on:click={() => setActive(6)}><p class="text-base md:text-xl">Contact Us</p></NavLi>
-		</NavUl>
-	  </Navbar>
-
+		<div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-sticky">
+		  <ul class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+			<li>
+			  <a href="#" class="block py-2 pl-3 pr-4 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 md:dark:text-blue-500" aria-current="page">Home</a>
+			</li>
+			<li>
+			  <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">About</a>
+			</li>
+			<li>
+			  <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Services</a>
+			</li>
+			<li>
+			  <a href="#" class="block py-2 pl-3 pr-4 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Contact</a>
+			</li>
+		  </ul>
+		</div>
+		</div>
+	  </nav>
 	
 </header>
 
