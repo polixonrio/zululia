@@ -98,7 +98,7 @@
 	<slot />
 </main>
 
-<Footer customClass="bg-slate-100" footerType="socialmedia">
+<Footer customClass="bg-slate-800" footerType="socialmedia">
 	<div class="mx-auto 	 max-w-screen-xl text-center">
 		<FooterBrand
 			href="https://asterisc.in"
